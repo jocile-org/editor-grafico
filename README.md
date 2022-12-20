@@ -10,4 +10,7 @@
 ![Anuncio-bistro-jocile.jpg](Anuncio-bistro-jocile.jpg)
 Jocile
 
+![anúncio-wesley.jpg](anúncio-wesley.jpg)
+Wesley
+
 [Visite a página do curso](https://jocile.com/posts/planejamento-de-editor-grafico/)
