@@ -9,5 +9,8 @@ Certificado-Diego
 ![Certificado - Alisson Sales.jpg](Certificado%20-%20Alisson%20Sales.jpg)
 Certificado - Alisson Sales
 
+![certificado-wesley.jpg](certificado-wesley.jpg)
+Francisco Wesley
+
 - [README](README.md)
 - [página do curso](https://jocile.com/posts/planejamento-de-editor-grafico/)
