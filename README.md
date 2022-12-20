@@ -2,7 +2,8 @@
 
 ## Atividades
 
-[Criação de Cerficado](certificados.md)
+- [Criação de Cerficado](certificados.md)
+- [mídia Card](midiacard.md)
 
 ## Infografo de anúncio restaurante
 
